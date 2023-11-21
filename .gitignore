@@ -1,1 +1,8 @@
+# Private developer key info
 developer_key*
+
+# Build stuff
+*.prg*
+gen/
+internal-mir/
+mir/
